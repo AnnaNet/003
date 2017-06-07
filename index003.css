@@ -1,8 +1,13 @@
 p {
-  color:darkgreen;
-  background-color:lightblue;
+  color: darkgreen;
+  background-color: lightblue;
 }
 
 h2 {
-  color:red;
+  color: darkred;
+  background-color: orange;
+}
+#intro {
+  color: darkblue;
+  background-color: lightgreen;
 }
