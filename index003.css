@@ -1,2 +1,8 @@
-<р style="color:white; background-color:blue;">
+p {
+  color:darkgreen;
+  background-color:lightblue;
+}
 
+h2 {
+  color:red;
+}
