@@ -1,9 +1,30 @@
+body {
+  background-color: LightSkyBlue;
+}
+div.block {
+  border: 4px solid orange;
+  max-width: 120px;
+  min-height: 50px;
+}
+td.top {
+  vertical-align: bottom;
+  text-decoration: line-through;
+}
 p {
+  word-spacing: 20px;
+  letter-spacing: 3px;
+  text-indent: 60px;
   color: darkgreen;
   background-color: lightblue;
 }
-
+h1 {
+  padding: 20px;
+  border: 10px solid blue;
+  text-shadow: green 5px 6px 6px;
+  border-top-style: dotted;
+  text-transform: capitalize;
 h2 {
+  border-style: groove;
   color: darkred;
   background-color: orange;
 }
